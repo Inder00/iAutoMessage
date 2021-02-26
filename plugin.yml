@@ -1,0 +1,4 @@
+name: dgMessages
+authors: [Inder00]
+main: pl.inder00.automessage.AutoMessage
+version: 1

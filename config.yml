@@ -1,0 +1,4 @@
+interval: 300
+messages:
+- 'Wiadomosc nr.1@@@Druga linijka'
+- 'Wiadomosc nr.2@@@Druga linijka@@@Trzecia linijka'
